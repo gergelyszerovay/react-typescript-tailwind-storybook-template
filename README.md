@@ -1,4 +1,4 @@
-# React + Tailwind 4 + Storybook 10 Template
+# React + TypeScript 6 + Tailwind 4 + Storybook 10 Template
 
 Minimal starter for building UI components with React 19, Tailwind CSS 4, Vite 8, and Storybook 10.
 

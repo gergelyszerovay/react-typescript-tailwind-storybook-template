@@ -1,9 +1,9 @@
 {
-  "name": "react-tailwind-storybook-template",
+  "name": "react-typescript-tailwind-storybook-template",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/gergelyszerovay/react-tailwind-storybook-template.git"
+    "url": "https://github.com/gergelyszerovay/react-typescript-tailwind-storybook-template.git"
   },
   "version": "0.0.1",
   "type": "module",

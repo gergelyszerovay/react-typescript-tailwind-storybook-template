@@ -1,6 +1,8 @@
-# React + Tailwind 4 + Storybook 10 Boilerplate
+# React + Tailwind 4 + Storybook 10 Template
 
 Minimal starter for building UI components with React 19, Tailwind CSS 4, Vite 8, and Storybook 10.
+
+Click **Use this template** on GitHub, or run `gh repo create --template gergelyszerovay/react-typescript-tailwind-storybook-template <new-repo>`.
 
 ## Stack
 

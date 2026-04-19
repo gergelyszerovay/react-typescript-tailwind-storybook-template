@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@source "./**/*.{ts,tsx}";
+
+/* counter for tailwind to pick up new classes, increase it when you add/modify tailwind styles in components */
+/* counter: 0 */
